@@ -57,7 +57,7 @@ body {
   );
   padding: 25px 10px;
   border-radius: 10%;
-  max-width: 250px;
+  max-width: 300px;
   display: flex;
   flex-direction: column;
   justify-content: center;
